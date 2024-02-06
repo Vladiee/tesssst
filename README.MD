@@ -4,7 +4,7 @@
 
 -----
 
-<p aling="center"><img src="https://www.meme-arsenal.com/memes/81ec5f92fd25491255613becfdb8b0e1.jpg" width="400"></p>
+<p align="center"><img src="https://www.meme-arsenal.com/memes/81ec5f92fd25491255613becfdb8b0e1.jpg" width="400"></p>
 
 <p><a href="https://www.youtube.com/watch?v=HEXWRTEbj1I">ССЫЛКА</a></p>
 
